@@ -1,0 +1,17 @@
+[
+  {
+    "id": "github",
+    "display": "Github",
+    "icon": "github"
+  },
+  {
+    "id": "discord",
+    "display": "Discord",
+    "icon": "discord"
+  },
+  {
+    "id": "youtube",
+    "display": "YouTube",
+    "icon": "youtube"
+  }
+]

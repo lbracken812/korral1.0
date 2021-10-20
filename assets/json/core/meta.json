@@ -1,0 +1,16 @@
+{
+  "author": "Korral",
+  "host": "https://korral.me",
+  "color": {
+    "primary": "#637D40",
+    "secondary": "#515934",
+    "contrast": "#273921"
+  },
+  "pages": {
+    "home": {
+      "short": "Logan",
+      "title": "Logan - About Me",
+      "description": "I'm a 14 y/o developer and software designer."
+    }
+  }
+}

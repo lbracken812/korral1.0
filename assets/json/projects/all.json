@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Hmm",
+    "color": "#15baff",
+    "url": "https://lubr.neocities.org/",
+    "name": "???",
+    "description": "Soon-to-be social app(s)"
+  },
+  {
+    "id": "GroupCall",
+    "color": "#5a65f4",
+    "url": "https://discord.gg/8gG6mTmHP8",
+    "name": "GroupCall",
+    "description": "GroupCall, Reduce DM clutter."
+  },
+  {
+    "id": "CyberWeekly",
+    "color": "#bbbbbb",
+    "url": "https://brackenfamilymn.wixsite.com/cyber",
+    "name": "CyberWeekly",
+    "description": "The best Cyber-Security Newsletter"
+  }
+]
