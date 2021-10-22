@@ -23,7 +23,7 @@
               v-tooltip.bottom="social.display"
               target="_blank"
               :href="`/${social.id}`"
-              class="text-xl xs:text-2xl lg:text-3xl text-white cursor-pointer ease-in-out duration-100 hover:opacity-0"
+              class="text-xl xs:text-2xl lg:text-3xl text-white cursor-pointer ease-in-out duration-100 hover:opacity-75"
             >
               <fa :icon="['fab', social.icon]" class="drop-shadow" />
             </a>
