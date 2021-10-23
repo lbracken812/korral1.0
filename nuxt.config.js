@@ -106,7 +106,7 @@ export default {
       ]
     }
   },
-
+  
   sitemap: {
     hostname: 'https://rxs.to/sitemap.xml',
     exclude: [],
