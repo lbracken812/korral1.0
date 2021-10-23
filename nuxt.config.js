@@ -102,7 +102,7 @@ export default {
         'faInstagram',
         'faPatreon',
         'faLinkedin',
-        'faEmail'
+        'fa-envelope-square'
       ]
     }
   },
