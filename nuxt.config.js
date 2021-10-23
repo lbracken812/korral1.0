@@ -101,7 +101,8 @@ export default {
         'faYoutube',
         'faInstagram',
         'faPatreon',
-        'faLinkedin'
+        'faLinkedin',
+        'faEmail'
       ]
     }
   },
