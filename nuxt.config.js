@@ -101,8 +101,7 @@ export default {
         'faYoutube',
         'faInstagram',
         'faPatreon',
-        'faLinkedin',
-        'freeFabFa-envelope-square'
+        'faLinkedin'
       ]
     }
   },
