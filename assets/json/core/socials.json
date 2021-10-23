@@ -13,5 +13,10 @@
     "id": "youtube",
     "display": "YouTube",
     "icon": "youtube"
+  },
+  {
+    "id": "email",
+    "display": "Email",
+    "icon": "email"
   }
 ]
