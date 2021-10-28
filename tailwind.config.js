@@ -5,13 +5,13 @@ module.exports = {
       white: '#fff',
       black: '#000',
       gray: {
-        darker: '#54818f',
+        darker: '#fba987',
         dark: '##8a8787',
         light: '#BBBBBB',
         lighter: '#EEEEEE'
       },
       blue: {
-        darker: '#54818f',
+        darker: '#fba987',
         dark: '#515934',
         light: '#637D40',
         lighter: '#EBE5B5'
