@@ -7,7 +7,7 @@ module.exports = {
       gray: {
         darker: '#fba987',
         dark: '##8a8787',
-        light: '#BBBBBB',
+        light: '#917264',
         lighter: '#EEEEEE'
       },
       blue: {
