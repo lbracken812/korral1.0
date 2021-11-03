@@ -22,7 +22,7 @@
         </div>
         <p class="text-base text-white opacity-50">
           There is more to come in the future, my biggest stuff is kept sercret 🤫<br>
-          If you want to learn more about my work, feel free to shoot me a <a href="/email" target="_blank" class="text-green-lighter border-b border-green-lighter opacity-75 duration-100 ease-in-out hover:opacity-100">Email!</a>.
+          If you want to learn more about my work, feel free to shoot me a <a href="/email" target="_blank" class="text-green-lighter border-b border-green-lighter opacity-75 duration-100 ease-in-out hover:opacity-100">email!</a>.
         </p>
       </div>
     </div>
