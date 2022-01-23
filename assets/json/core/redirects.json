@@ -21,6 +21,6 @@
   },
   {
     "id": "translate",
-    "url": "https://discord.com/oauth2/authorize?client_id=934615403890618399&scope=applications.commands%20bot&permissions=2147534848/"
+    "url": "https://discord.com/oauth2/authorize?client_id=934615403890618399&scope=bot&permissions=277025441792"
   }
 ]
