@@ -14,7 +14,7 @@
             I'm Logan!
           </h1>
           <h2 class="text-xl lg:text-2xl font-bold text-white opacity-75 sm:mx-2 drop-shadow md:whitespace-nowrap">
-            I'm a 14 y/o developer and software engineer <br class="hidden md:block"> always working on various amazing ideas!
+            I'm a 15 y/o developer and software engineer <br class="hidden md:block"> always working on various amazing ideas!
           </h2>
           <div class="flex flex-wrap gap-4 sm:gap-6 sm:mx-2">
             <a
